@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target":"es2020",
+    "moduleResolution":"node",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "outDir": "build"
+  },
+  "files": [
+    "src/validatorReport.ts"
+  ]
+}
