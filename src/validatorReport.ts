@@ -366,13 +366,20 @@ async function getAPIData(
   erasStakers = Array(activeEra - eraDepth + 1).concat(erasStakers);
   erasRewardPoints = Array(activeEra - eraDepth + 1).concat(erasRewardPoints);
 
-  let dataset: dataset = {
-    erasStakers: [],
-    erasRewardPoints: [],
-    ledger: ledger.unwrap(),
-    validator: validator,
-    network: network,
-  };
+  let dataset: dataset;
+  try {
+    dataset = {
+      erasStakers: [],
+      erasRewardPoints: [],
+      ledger: ledger.unwrap(),
+      validator: validator,
+      network: network,
+    };
+  } catch {
+    console.error("Failed to retrieve data for validator " + validator.stash);
+    console.error("May not be an active validator. Halting report.");
+    process.exit();
+  }
   //Export any eras with points awarded. Note this sometimes includes eras the validator was not active.
   erasRewardPoints.forEach((x, era) => {
     if (getEraRewardPoints(validator.stash, x)) {
