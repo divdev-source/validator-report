@@ -266,6 +266,7 @@ import {
   Exposure,
   EraIndex,
   EraRewardPoints,
+  Nominations,
   StakingLedger,
 } from "@polkadot/types/interfaces";
 
@@ -283,12 +284,12 @@ async function validatorReport() {
   const apiDOT = await ApiPromise.create({ provider: wsProviderDOT });
   const apiKSM = await ApiPromise.create({ provider: wsProviderKSM });
 
-  const promiesActiveEraDOT =
+  const promiseActiveEraDOT =
     apiDOT.query.staking.activeEra<Option<ActiveEraInfo>>();
   const promiseActiveEraKSM =
     apiKSM.query.staking.activeEra<Option<ActiveEraInfo>>();
 
-  const activeEraDOT = (await promiesActiveEraDOT).unwrap().index.toNumber();
+  const activeEraDOT = (await promiseActiveEraDOT).unwrap().index.toNumber();
   console.log(`DOT Active Era: ${activeEraDOT}`);
   const activeEraKSM = (await promiseActiveEraKSM).unwrap().index.toNumber();
   console.log(`KSM Active Era: ${activeEraKSM}`);
@@ -320,6 +321,8 @@ async function validatorReport() {
 interface dataset {
   erasStakers: Exposure[];
   erasRewardPoints: EraRewardPoints[];
+  nominators: Array<Array<String>>;
+  otherNominations: Nominations[];
   ledger: StakingLedger;
   validator: any;
   network: string;
@@ -338,18 +341,32 @@ async function getAPIData(
 ) {
   //Make all data requests in parallel
   let promiseErasStakers = [];
+  let promiseOtherNominations = [];
   let promiseErasRewardPoints = [];
   let erasStakers = [];
   let erasRewardPoints = [];
+  let nominators = [];
+  let otherNominations = [];
   for (let i = 0; i < eraDepth; i++) {
+    //Get nominations and assigned stake for the era
     promiseErasStakers[i] = api.query.staking.erasStakers<Exposure>(
       activeEra - eraDepth + i + 1,
       validator.stash
     );
+    //Get validator points for the era
     promiseErasRewardPoints[i] =
       api.query.staking.erasRewardPoints<EraRewardPoints>(
         activeEra - eraDepth + i + 1
       );
+    //Get count of other validators nominated by each nominator
+    promiseOtherNominations[i] = promiseErasStakers[i].then((erasStakers) => {
+      nominators[i] = erasStakers.others.map((record) => record.who.toString());
+      return Promise.all(
+        nominators[i].map((nominator) =>
+          api.query.staking.nominators<Option<Nominations>>(nominator)
+        )
+      );
+    });
   }
   let promiseLedger = api.query.staking
     .bonded(validator.stash)
@@ -360,22 +377,28 @@ async function getAPIData(
   //Wait for all the requests to finish
   erasStakers = await Promise.all(promiseErasStakers);
   erasRewardPoints = await Promise.all(promiseErasRewardPoints);
+  otherNominations = await Promise.all(promiseOtherNominations);
   let ledger = await promiseLedger;
 
   //Fill sparse array so we can use era indexing naturally
   erasStakers = Array(activeEra - eraDepth + 1).concat(erasStakers);
   erasRewardPoints = Array(activeEra - eraDepth + 1).concat(erasRewardPoints);
+  nominators = Array(activeEra - eraDepth + 1).concat(nominators);
+  otherNominations = Array(activeEra - eraDepth + 1).concat(otherNominations);
 
   let dataset: dataset;
   try {
     dataset = {
       erasStakers: [],
       erasRewardPoints: [],
+      nominators: [],
+      otherNominations: [],
       ledger: ledger.unwrap(),
       validator: validator,
       network: network,
     };
-  } catch {
+  } catch (error) {
+    console.error(error);
     console.error("Failed to retrieve data for validator " + validator.stash);
     console.error("May not be an active validator. Halting report.");
     process.exit();
@@ -385,6 +408,8 @@ async function getAPIData(
     if (getEraRewardPoints(validator.stash, x)) {
       dataset["erasStakers"][era] = erasStakers[era];
       dataset["erasRewardPoints"][era] = erasRewardPoints[era];
+      dataset["nominators"][era] = nominators[era];
+      dataset["otherNominations"][era] = otherNominations[era];
     }
   });
 
@@ -456,6 +481,9 @@ function printNominators(dataset: dataset[]) {
     //For Each Era
     data["erasStakers"].forEach((erasStakers, era) => {
       process.stdout.write(`ERA ${era}\n`);
+      process.stdout.write(
+        "APPLIED".padStart(11 + 5) + "EFFECTIVE".padStart(11) + "\n"
+      );
       let nominations = getNominations(erasStakers, getPlanck(data["network"]));
       nominations.forEach(function (n) {
         if (n.share < 100) {
@@ -469,9 +497,20 @@ function printNominators(dataset: dataset[]) {
           );
           process.stdout.write("%");
         } else {
-          process.stdout.write("     ");
+          process.stdout.write("".padStart(5));
         }
         process.stdout.write(n.stake.toLocaleString("en-US").padStart(11));
+        // Effective stake is nominator total/# of nominated validators
+        // Based on present # of nominated validators, may have been different in the past
+        let ni = data.nominators[era].indexOf(n.id);
+        let tmpStr = "-".padStart(11);
+        if (ni > -1) {
+          try { let otherNomCount =
+            data.otherNominations[era][ni].unwrap()["targets"].length;
+            tmpStr = Math.round(n.stake / otherNomCount).toLocaleString("en-US").padStart(11);
+          } catch {};
+        }
+        process.stdout.write(tmpStr);
         process.stdout.write(` ${data["network"]} `);
         process.stdout.write(n.id);
         process.stdout.write("\n");
@@ -504,7 +543,7 @@ function getEraRewardPoints(stash, erasRewardPoints) {
   return points;
 }
 
-interface Nominations {
+interface NomData {
   id: string;
   stake: number;
   share: number;
@@ -513,7 +552,7 @@ interface Nominations {
 //Extract nominations from an era and sort them
 function getNominations(erasStakers: Exposure, planck: BN) {
   let total = erasStakers.total.unwrap().div(planck).toNumber();
-  //let nominations: Nominations[] = Array;
+  //let nominations: NomData[] = Array;
   let nominations = [];
   nominations.push({
     id: "self",
