@@ -256,6 +256,7 @@ const W3F = [
 // IMPORTS
 import BN from "bn.js";
 import { ApiPromise, WsProvider } from "@polkadot/api";
+// @ts-ignore
 import data from "./validators.json" assert { type: "json" };
 const VALIDATORS = data.VALIDATORS;
 //////////////////////////////////////////////////////////////////////////////////////////
@@ -373,7 +374,7 @@ function printSummary(dataset) {
             process.stdout.write(")");
             process.stdout.write("\n");
             let claimedEras = data["ledger"].claimedRewards.toArray().toString();
-            if (claimedEras.includes(era))
+            if (claimedEras.includes(era.toString()))
                 process.stdout.write("CLAIMED  ");
             else
                 process.stdout.write("UNCLAIMED");

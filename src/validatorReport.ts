@@ -270,6 +270,7 @@ import {
   StakingLedger,
 } from "@polkadot/types/interfaces";
 
+// @ts-ignore
 import data from "./validators.json" assert { type: "json" };
 const VALIDATORS = (<any>data).VALIDATORS;
 
@@ -442,7 +443,7 @@ function printSummary(dataset: dataset[]) {
       process.stdout.write("\n");
 
       let claimedEras = data["ledger"].claimedRewards.toArray().toString();
-      if (claimedEras.includes(era)) process.stdout.write("CLAIMED  ");
+      if (claimedEras.includes(era.toString())) process.stdout.write("CLAIMED  ");
       else process.stdout.write("UNCLAIMED");
 
       process.stdout.write(" Era points:");
