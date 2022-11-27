@@ -3,6 +3,10 @@ const DOTWS = "wss://rpc.polkadot.io";
 //Kusama ws endpoint to use
 const KSMWS = "wss://kusama-rpc.polkadot.io";
 
+//TVP data sources
+const DOTTVPURL = "https://polkadot.w3f.community/candidates";
+const KSMTVPURL = "https://kusama.w3f.community/candidates";
+
 //Polkadot eras are 24 hours and Kusama eras are 6 hours
 //Both chains only store 84 eras of data
 const ERADEPTH = 84;
@@ -59,6 +63,8 @@ async function validatorReport() {
   const ksmValidators = VALIDATORS.filter(
     (validator) => validator.network === "kusama"
   );
+  const promiseKsmTvpData = fetch(KSMTVPURL).then((r) => r.json());
+  const promiseDotTvpData = fetch(DOTTVPURL).then((r) => r.json());
   let dataset: dataset[] = await Promise.all(
     [
       dotValidators.map((validator) =>
@@ -69,8 +75,12 @@ async function validatorReport() {
       ),
     ].flat()
   );
+  const tvpData = {
+    polkadot: await promiseDotTvpData,
+    kusama: await promiseKsmTvpData,
+  };
 
-  printSummary(dataset);
+  printSummary(dataset, tvpData);
   printNominators(dataset);
 }
 
@@ -173,14 +183,30 @@ async function getAPIData(
   return dataset;
 }
 
-function printSummary(dataset: dataset[]) {
+function printSummary(dataset: dataset[], tvpData) {
   //For Each Validator
   dataset.forEach((data) => {
     const planck = getPlanck(data.network);
 
     process.stdout.write(`Validator ${data["validator"].stash}\n`);
     process.stdout.write(`          ${data["validator"].network}`);
-    process.stdout.write(` ${data["validator"].name}\n\n`);
+    process.stdout.write(` ${data["validator"].name}\n`);
+    let tvpIdx = tvpData[data["validator"].network].findIndex(
+      (v) => v["stash"] == data["validator"].stash
+    );
+    if (tvpIdx > -1) {
+      process.stdout.write(
+        `          TVP Rank: ${tvpData[data["validator"].network][tvpIdx].rank}`
+      );
+      process.stdout.write(` Nomination Order: ${tvpIdx}`);
+      process.stdout.write(
+        ` Self-bond Points: ${tvpData[data["validator"].network][
+          tvpIdx
+        ].score.bonded.toFixed(1)}`
+      );
+      process.stdout.write(`\n`);
+    }
+    process.stdout.write(`\n`);
     //For Each Era
     data["erasStakers"].forEach((erasStakers, era) => {
       process.stdout.write(`ERA ${era.toString().padEnd(5)} Stake:`);
@@ -199,7 +225,8 @@ function printSummary(dataset: dataset[]) {
       process.stdout.write("\n");
 
       let claimedEras = data["ledger"].claimedRewards.toArray().toString();
-      if (claimedEras.includes(era.toString())) process.stdout.write("CLAIMED  ");
+      if (claimedEras.includes(era.toString()))
+        process.stdout.write("CLAIMED  ");
       else process.stdout.write("UNCLAIMED");
 
       process.stdout.write(" Era points:");
@@ -262,10 +289,13 @@ function printNominators(dataset: dataset[]) {
         let ni = data.nominators[era].indexOf(n.id);
         let tmpStr = "-".padStart(11);
         if (ni > -1) {
-          try { let otherNomCount =
-            data.otherNominations[era][ni].unwrap()["targets"].length;
-            tmpStr = Math.round(n.stake / otherNomCount).toLocaleString("en-US").padStart(11);
-          } catch {};
+          try {
+            let otherNomCount =
+              data.otherNominations[era][ni].unwrap()["targets"].length;
+            tmpStr = Math.round(n.stake / otherNomCount)
+              .toLocaleString("en-US")
+              .padStart(11);
+          } catch {}
         }
         process.stdout.write(tmpStr);
         process.stdout.write(` ${data["network"]} `);

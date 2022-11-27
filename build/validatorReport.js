@@ -2,6 +2,9 @@
 const DOTWS = "wss://rpc.polkadot.io";
 //Kusama ws endpoint to use
 const KSMWS = "wss://kusama-rpc.polkadot.io";
+//TVP data sources
+const DOTTVPURL = "https://polkadot.w3f.community/candidates";
+const KSMTVPURL = "https://kusama.w3f.community/candidates";
 //Polkadot eras are 24 hours and Kusama eras are 6 hours
 //Both chains only store 84 eras of data
 const ERADEPTH = 84;
@@ -34,11 +37,17 @@ async function validatorReport() {
     //Parallel request for data for all validators
     const dotValidators = VALIDATORS.filter((validator) => validator.network === "polkadot");
     const ksmValidators = VALIDATORS.filter((validator) => validator.network === "kusama");
+    const promiseKsmTvpData = fetch(KSMTVPURL).then((r) => r.json());
+    const promiseDotTvpData = fetch(DOTTVPURL).then((r) => r.json());
     let dataset = await Promise.all([
         dotValidators.map((validator) => getAPIData(validator, "DOT", ERADEPTH, activeEraDOT, apiDOT)),
         ksmValidators.map((validator) => getAPIData(validator, "KSM", ERADEPTH, activeEraKSM, apiKSM)),
     ].flat());
-    printSummary(dataset);
+    const tvpData = {
+        polkadot: await promiseDotTvpData,
+        kusama: await promiseKsmTvpData,
+    };
+    printSummary(dataset, tvpData);
     printNominators(dataset);
 }
 //Print summary table
@@ -108,13 +117,21 @@ async function getAPIData(validator, network, eraDepth, activeEra, api) {
     });
     return dataset;
 }
-function printSummary(dataset) {
+function printSummary(dataset, tvpData) {
     //For Each Validator
     dataset.forEach((data) => {
         const planck = getPlanck(data.network);
         process.stdout.write(`Validator ${data["validator"].stash}\n`);
         process.stdout.write(`          ${data["validator"].network}`);
-        process.stdout.write(` ${data["validator"].name}\n\n`);
+        process.stdout.write(` ${data["validator"].name}\n`);
+        let tvpIdx = tvpData[data["validator"].network].findIndex((v) => v["stash"] == data["validator"].stash);
+        if (tvpIdx > -1) {
+            process.stdout.write(`          TVP Rank: ${tvpData[data["validator"].network][tvpIdx].rank}`);
+            process.stdout.write(` Nomination Order: ${tvpIdx}`);
+            process.stdout.write(` Self-bond Points: ${tvpData[data["validator"].network][tvpIdx].score.bonded.toFixed(1)}`);
+            process.stdout.write(`\n`);
+        }
+        process.stdout.write(`\n`);
         //For Each Era
         data["erasStakers"].forEach((erasStakers, era) => {
             process.stdout.write(`ERA ${era.toString().padEnd(5)} Stake:`);
@@ -185,10 +202,11 @@ function printNominators(dataset) {
                 if (ni > -1) {
                     try {
                         let otherNomCount = data.otherNominations[era][ni].unwrap()["targets"].length;
-                        tmpStr = Math.round(n.stake / otherNomCount).toLocaleString("en-US").padStart(11);
+                        tmpStr = Math.round(n.stake / otherNomCount)
+                            .toLocaleString("en-US")
+                            .padStart(11);
                     }
                     catch { }
-                    ;
                 }
                 process.stdout.write(tmpStr);
                 process.stdout.write(` ${data["network"]} `);
