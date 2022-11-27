@@ -1,18 +1,20 @@
-{"VALIDATORS": [
-  {
-    "stash": "154UtMXnexHfUTSvtUZpAfhGi1BejCrRH7YnnGF5faUtaVB5",
-    "name": "EK-Polkadot1",
-    "network": "polkadot"
-  },
-  {
-    "stash": "JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq",
-    "name": "DOZENODES2",
-    "network": "kusama"
-  },
-  {
-    "stash": "16YGKSNQ2p2SXC2LuGsoBHrm8nKJgnkW9wpvJE6ahBvs6wpe",
-    "name": "MC-Polkadot1",
-    "network": "polkadot"
-  }
-]
+{
+  "ERADEPTH": 84,
+  "VALIDATORS": [
+    {
+      "stash": "154UtMXnexHfUTSvtUZpAfhGi1BejCrRH7YnnGF5faUtaVB5",
+      "name": "EK-Polkadot1",
+      "network": "polkadot"
+    },
+    {
+      "stash": "JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq",
+      "name": "DOZENODES2",
+      "network": "kusama"
+    },
+    {
+      "stash": "16YGKSNQ2p2SXC2LuGsoBHrm8nKJgnkW9wpvJE6ahBvs6wpe",
+      "name": "MC-Polkadot1",
+      "network": "polkadot"
+    }
+  ]
 }

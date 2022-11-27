@@ -24,7 +24,8 @@ Goals:
     ```
 4. Create validators.json listing all validators to be reported in validator-report/build with the following format:
     ```
-    {"VALIDATORS": [
+    {"ERADAPTH":84,
+     "VALIDATORS": [
       {
         "stash": "first validator stash address",
         "name": "reference name",

@@ -1,11 +1,9 @@
-DOT Active Era: 897
-KSM Active Era: 4451
+DOT Active Era: 908
+KSM Active Era: 4495
 
 Validator 154UtMXnexHfUTSvtUZpAfhGi1BejCrRH7YnnGF5faUtaVB5
           polkadot EK-Polkadot1
-
-ERA 824   Stake:2,271,172 (Without W3F 90,255)
-CLAIMED   Era points:60,320 (Average was 47,487)
+          TVP Rank: 40 Nomination Order: 0 Self-bond Points: 30.9
 
 ERA 825   Stake:2,140,914 (Without W3F 43,011)
 CLAIMED   Era points:59,460 (Average was 47,007)
@@ -31,6 +29,7 @@ CLAIMED   Era points:20 (Average was 53,708)
 
 Validator 16YGKSNQ2p2SXC2LuGsoBHrm8nKJgnkW9wpvJE6ahBvs6wpe
           polkadot MC-Polkadot1
+          TVP Rank: 37 Nomination Order: 2 Self-bond Points: 23.4
 
 ERA 825   Stake:2,154,574 (Without W3F 130,379)
 CLAIMED   Era points:47,840 (Average was 47,007)
@@ -56,6 +55,7 @@ CLAIMED   Era points:67,780 (Average was 53,909)
 
 Validator JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq
           kusama DOZENODES2
+          TVP Rank: 86 Nomination Order: 277 Self-bond Points: 47.9
 
 ERA 4446  Stake:5,880 (Without W3F 104)
 CLAIMED   Era points:40 (Average was 5,199)
@@ -73,7 +73,130 @@ ERA 4450  Stake:6,105 (Without W3F 915)
 CLAIMED   Era points:80 (Average was 5,336)
 
 ERA 4451  Stake:11,374 (Without W3F 320)
-UNCLAIMED Era points:4,800 (Average was 2,333)
+CLAIMED   Era points:14,040 (Average was 5,353)
+
+ERA 4452  Stake:11,370 (Without W3F 316)
+CLAIMED   Era points:120 (Average was 5,417)
+
+ERA 4453  Stake:11,359 (Without W3F 304)
+CLAIMED   Era points:140 (Average was 5,429)
+
+ERA 4454  Stake:11,338 (Without W3F 283)
+CLAIMED   Era points:9,420 (Average was 5,425)
+
+ERA 4455  Stake:11,253 (Without W3F 198)
+CLAIMED   Era points:4,400 (Average was 5,390)
+
+ERA 4456  Stake:11,402 (Without W3F 346)
+CLAIMED   Era points:4,220 (Average was 5,372)
+
+ERA 4457  Stake:11,359 (Without W3F 303)
+CLAIMED   Era points:4,420 (Average was 5,398)
+
+ERA 4458  Stake:11,424 (Without W3F 367)
+CLAIMED   Era points:13,100 (Average was 5,488)
+
+ERA 4459  Stake:11,315 (Without W3F 258)
+CLAIMED   Era points:4,940 (Average was 5,459)
+
+ERA 4460  Stake:11,315 (Without W3F 257)
+CLAIMED   Era points:18,700 (Average was 5,521)
+
+ERA 4461  Stake:11,232 (Without W3F 173)
+CLAIMED   Era points:4,880 (Average was 5,490)
+
+ERA 4462  Stake:6,146 (Without W3F 195)
+CLAIMED   Era points:4,920 (Average was 5,515)
+
+ERA 4463  Stake:6,164 (Without W3F 302)
+CLAIMED   Era points:4,400 (Average was 5,536)
+
+ERA 4464  Stake:6,180 (Without W3F 220)
+CLAIMED   Era points:9,460 (Average was 5,573)
+
+ERA 4465  Stake:6,123 (Without W3F 413)
+CLAIMED   Era points:6,960 (Average was 5,971)
+
+ERA 4466  Stake:6,248 (Without W3F 965)
+CLAIMED   Era points:60 (Average was 5,513)
+
+ERA 4467  Stake:6,246 (Without W3F 954)
+CLAIMED   Era points:8,880 (Average was 5,516)
+
+ERA 4468  Stake:6,198 (Without W3F 578)
+CLAIMED   Era points:80 (Average was 5,537)
+
+ERA 4469  Stake:6,271 (Without W3F 1,062)
+CLAIMED   Era points:9,440 (Average was 5,482)
+
+ERA 4470  Stake:6,439 (Without W3F 127)
+CLAIMED   Era points:4,940 (Average was 5,543)
+
+ERA 4471  Stake:6,480 (Without W3F 139)
+CLAIMED   Era points:5,060 (Average was 5,523)
+
+ERA 4472  Stake:6,474 (Without W3F 856)
+CLAIMED   Era points:4,900 (Average was 5,489)
+
+ERA 4473  Stake:6,698 (Without W3F 624)
+CLAIMED   Era points:40 (Average was 5,385)
+
+ERA 4474  Stake:7,531 (Without W3F 360)
+CLAIMED   Era points:9,700 (Average was 5,375)
+
+ERA 4475  Stake:5,848 (Without W3F 483)
+CLAIMED   Era points:8,780 (Average was 5,407)
+
+ERA 4476  Stake:5,958 (Without W3F 127)
+CLAIMED   Era points:4,500 (Average was 5,434)
+
+ERA 4477  Stake:6,229 (Without W3F 637)
+CLAIMED   Era points:4,280 (Average was 5,408)
+
+ERA 4481  Stake:6,223 (Without W3F 481)
+CLAIMED   Era points:60 (Average was 5,407)
+
+ERA 4482  Stake:6,998 (Without W3F 687)
+CLAIMED   Era points:14,120 (Average was 5,455)
+
+ERA 4483  Stake:6,996 (Without W3F 859)
+CLAIMED   Era points:120 (Average was 5,505)
+
+ERA 4484  Stake:6,946 (Without W3F 169)
+CLAIMED   Era points:4,440 (Average was 5,473)
+
+ERA 4485  Stake:6,066 (Without W3F 232)
+CLAIMED   Era points:100 (Average was 5,469)
+
+ERA 4486  Stake:6,145 (Without W3F 381)
+CLAIMED   Era points:60 (Average was 5,505)
+
+ERA 4487  Stake:6,127 (Without W3F 1,124)
+CLAIMED   Era points:100 (Average was 5,497)
+
+ERA 4488  Stake:6,304 (Without W3F 358)
+CLAIMED   Era points:80 (Average was 5,477)
+
+ERA 4489  Stake:6,194 (Without W3F 242)
+CLAIMED   Era points:120 (Average was 5,490)
+
+ERA 4490  Stake:6,835 (Without W3F 101)
+CLAIMED   Era points:4,800 (Average was 5,463)
+
+ERA 4491  Stake:6,789 (Without W3F 681)
+CLAIMED   Era points:9,720 (Average was 5,542)
+
+ERA 4492  Stake:6,799 (Without W3F 596)
+CLAIMED   Era points:100 (Average was 5,497)
+
+ERA 4493  Stake:6,106 (Without W3F 6,106)
+CLAIMED   Era points:4,320 (Average was 5,419)
+
+ERA 4494  Stake:6,956 (Without W3F 133)
+CLAIMED   Era points:40 (Average was 5,494)
+
+ERA 4495  Stake:6,927 (Without W3F 469)
+UNCLAIMED Era points:40 (Average was 2,331)
 
 
 _______________________________Nomination Details_______________________________
@@ -81,245 +204,689 @@ _______________________________Nomination Details_______________________________
 Validator 154UtMXnexHfUTSvtUZpAfhGi1BejCrRH7YnnGF5faUtaVB5
           polkadot EK-Polkadot1
 
-ERA 824
-       2,271,172 DOT TOTAL
-96.0%  2,180,917 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
- 2.0%     44,692 DOT 1HD6ZdWGjPbMALMbK8JZ4LMjR9ay2avLGzGXUwLKKoHZdip
- 0.8%     18,136 DOT 14MWGCk3d11EJRMVHaSFcnkVMrMRuHuCmD63jPY7n7Pfcew1
- 0.3%      7,361 DOT self
- 0.2%      3,420 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
- 0.1%      2,000 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
- 0.1%      1,870 DOT 1dsgUcEbyWJ2c1SK9Kf2zz4q4e7ZW9BCrHCcKmBfzPnRtnX
- 0.1%      1,786 DOT 16JCiXop8yAURrpaEYossSvPsUdtq3TnQFxxXaSDcq1SncYi
- 0.1%      1,188 DOT 1NBKmK2V6JhN3fcr1dW6U7wSwWf4hNU1QBnvGya21JepZV5
- 0.0%        811 DOT 15D2QQUpzNCojwSbTq6m5KD7dh5Nh9Cq9uC7z7X4UmkfA3ZH
- 0.4%      8,978 DOT Sum of 24 remaining
-
 ERA 825
-       2,140,914 DOT TOTAL
-98.0%  2,097,902 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 0.7%     13,950 DOT 1k68aonJW2X8d6ygjkL153YLN4pVBfHgE4CHHfhTpM6hMTA
- 0.4%      9,491 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
- 0.3%      7,361 DOT self
- 0.1%      2,546 DOT 14su2bsrVPtuaGChtMsyUiYnf5duvi9xzrjFiDi3rf3nvP7X
- 0.1%      2,523 DOT 14uK4axMNfq77B12ZmeDjB35onxmeyCyetTa2vnXNKpr4U1a
- 0.1%      2,200 DOT 154zgC7GsFbG9Fbyto3hVwnFBKMTFQkDBE79oLArrjLeapY2
- 0.0%        590 DOT 14EHhXPqKGtQme2E6gzSJYGXBNBhJLdUvisPwikZd6a9hczk
- 0.0%        578 DOT 14nAvFnkA8WEZjpj6DkecQyPAJfKcBzQ4ge6NzdiDLE79Tck
- 0.0%        499 DOT 12MEA9FP7E1atYG2iNUGEnZjQpGujG1fGwketyFFvFV9aUZF
- 0.2%      3,265 DOT Sum of 12 remaining
+         APPLIED  EFFECTIVE
+       2,140,914          - DOT TOTAL
+98.0%  2,097,902    161,377 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 0.7%     13,950        872 DOT 1k68aonJW2X8d6ygjkL153YLN4pVBfHgE4CHHfhTpM6hMTA
+ 0.4%      9,491        593 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
+ 0.3%      7,361          - DOT self
+ 0.1%      2,546        424 DOT 14su2bsrVPtuaGChtMsyUiYnf5duvi9xzrjFiDi3rf3nvP7X
+ 0.1%      2,523        252 DOT 14uK4axMNfq77B12ZmeDjB35onxmeyCyetTa2vnXNKpr4U1a
+ 0.1%      2,200        138 DOT 154zgC7GsFbG9Fbyto3hVwnFBKMTFQkDBE79oLArrjLeapY2
+ 0.0%        590        148 DOT 14EHhXPqKGtQme2E6gzSJYGXBNBhJLdUvisPwikZd6a9hczk
+ 0.0%        578         39 DOT 14nAvFnkA8WEZjpj6DkecQyPAJfKcBzQ4ge6NzdiDLE79Tck
+ 0.0%        499         31 DOT 12MEA9FP7E1atYG2iNUGEnZjQpGujG1fGwketyFFvFV9aUZF
+ 0.2%      3,265          - DOT Sum of 12 remaining
 
 ERA 843
-       2,178,315 DOT TOTAL
-97.5%  2,124,928 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 0.6%     13,119 DOT 162h1DC5Mu4spiTDaPVdhrDENGf17VeMEt9v5y7fAJ3fMkk5
- 0.3%      7,432 DOT self
- 0.3%      6,431 DOT 12W3ncyAfWR2sdrbV4ud2asYxPjUnwUwL2xhKttNAdBjqJa3
- 0.2%      5,224 DOT 13XgSSamkKzGD48n8KEPm5mQTKUU9PbCQc1Ei7Njji5MA2bi
- 0.2%      3,420 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
- 0.1%      2,313 DOT 13cjjGDgJKT8MhWnXFCnHZZngYRp8NN8ZweeQQKraJBzT3zY
- 0.1%      2,050 DOT 1CsdwRwXSujTFZJ44273CA3BoNxSFiYsKEfHMTbCshGLPSW
- 0.1%      1,786 DOT 16JCiXop8yAURrpaEYossSvPsUdtq3TnQFxxXaSDcq1SncYi
- 0.1%      1,773 DOT 12v77jrXSnouCdX5rBVvVwin3bb1kCCQUH8nfjTRCJksiPcG
- 0.5%      9,827 DOT Sum of 25 remaining
+         APPLIED  EFFECTIVE
+       2,178,315          - DOT TOTAL
+97.5%  2,124,928    163,456 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 0.6%     13,119        820 DOT 162h1DC5Mu4spiTDaPVdhrDENGf17VeMEt9v5y7fAJ3fMkk5
+ 0.3%      7,432          - DOT self
+ 0.3%      6,431        402 DOT 12W3ncyAfWR2sdrbV4ud2asYxPjUnwUwL2xhKttNAdBjqJa3
+ 0.2%      5,224        373 DOT 13XgSSamkKzGD48n8KEPm5mQTKUU9PbCQc1Ei7Njji5MA2bi
+ 0.2%      3,420        214 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
+ 0.1%      2,313        289 DOT 13cjjGDgJKT8MhWnXFCnHZZngYRp8NN8ZweeQQKraJBzT3zY
+ 0.1%      2,050          - DOT 1CsdwRwXSujTFZJ44273CA3BoNxSFiYsKEfHMTbCshGLPSW
+ 0.1%      1,786        112 DOT 16JCiXop8yAURrpaEYossSvPsUdtq3TnQFxxXaSDcq1SncYi
+ 0.1%      1,773        111 DOT 12v77jrXSnouCdX5rBVvVwin3bb1kCCQUH8nfjTRCJksiPcG
+ 0.5%      9,827          - DOT Sum of 25 remaining
 
 ERA 852
-       2,158,450 DOT TOTAL
-85.7%  1,850,367 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
-11.4%    246,845 DOT 1HD6ZdWGjPbMALMbK8JZ4LMjR9ay2avLGzGXUwLKKoHZdip
- 0.8%     18,333 DOT 14MWGCk3d11EJRMVHaSFcnkVMrMRuHuCmD63jPY7n7Pfcew1
- 0.6%     12,021 DOT 124S9PKASSLAu3bxVjANmae6MXTKX3fMQ4edRMZahuVLn7F1
- 0.4%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.3%      7,481 DOT self
- 0.1%      2,060 DOT 1dsgUcEbyWJ2c1SK9Kf2zz4q4e7ZW9BCrHCcKmBfzPnRtnX
- 0.1%      1,500 DOT 12P9g69cb454ohyrH6RkrThbVt5rUYXUfDoyNJpzguiAEcu7
- 0.1%      1,199 DOT 1NBKmK2V6JhN3fcr1dW6U7wSwWf4hNU1QBnvGya21JepZV5
- 0.0%      1,034 DOT 13YUxm83yzJrx7xN1JBc3y1cQBN1jvpbdZGYHq3EYnEZ3LJ9
- 0.4%      8,000 DOT Sum of 17 remaining
+         APPLIED  EFFECTIVE
+       2,158,450          - DOT TOTAL
+85.7%  1,850,367    142,336 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+11.4%    246,845     15,428 DOT 1HD6ZdWGjPbMALMbK8JZ4LMjR9ay2avLGzGXUwLKKoHZdip
+ 0.8%     18,333      1,146 DOT 14MWGCk3d11EJRMVHaSFcnkVMrMRuHuCmD63jPY7n7Pfcew1
+ 0.6%     12,021        751 DOT 124S9PKASSLAu3bxVjANmae6MXTKX3fMQ4edRMZahuVLn7F1
+ 0.4%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.3%      7,481          - DOT self
+ 0.1%      2,060        172 DOT 1dsgUcEbyWJ2c1SK9Kf2zz4q4e7ZW9BCrHCcKmBfzPnRtnX
+ 0.1%      1,500         94 DOT 12P9g69cb454ohyrH6RkrThbVt5rUYXUfDoyNJpzguiAEcu7
+ 0.1%      1,199        171 DOT 1NBKmK2V6JhN3fcr1dW6U7wSwWf4hNU1QBnvGya21JepZV5
+ 0.0%      1,034         65 DOT 13YUxm83yzJrx7xN1JBc3y1cQBN1jvpbdZGYHq3EYnEZ3LJ9
+ 0.4%      8,000          - DOT Sum of 17 remaining
 
 ERA 853
-       2,169,104 DOT TOTAL
-96.3%  2,088,689 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 1.8%     40,000 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
- 0.4%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.3%      7,484 DOT self
- 0.2%      3,420 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
- 0.1%      2,000 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
- 0.1%      1,634 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
- 0.1%      1,328 DOT 14XU2D73Zo1xrNmbQsTpZs8FAD3VBY1B14k3tGgjkFogE6pj
- 0.1%      1,234 DOT 1iV3KpgUTLHbjznBz8M5Rx47BTQcTzeoAdg92vkHgWkS7sE
- 0.1%      1,200 DOT 1NBKmK2V6JhN3fcr1dW6U7wSwWf4hNU1QBnvGya21JepZV5
- 0.6%     12,502 DOT Sum of 28 remaining
+         APPLIED  EFFECTIVE
+       2,169,104          - DOT TOTAL
+96.3%  2,088,689    160,668 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 1.8%     40,000      8,000 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
+ 0.4%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.3%      7,484          - DOT self
+ 0.2%      3,420        214 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
+ 0.1%      2,000        182 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
+ 0.1%      1,634        117 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
+ 0.1%      1,328         83 DOT 14XU2D73Zo1xrNmbQsTpZs8FAD3VBY1B14k3tGgjkFogE6pj
+ 0.1%      1,234         77 DOT 1iV3KpgUTLHbjznBz8M5Rx47BTQcTzeoAdg92vkHgWkS7sE
+ 0.1%      1,200        171 DOT 1NBKmK2V6JhN3fcr1dW6U7wSwWf4hNU1QBnvGya21JepZV5
+ 0.6%     12,502          - DOT Sum of 28 remaining
 
 ERA 854
-       2,201,949 DOT TOTAL
-95.4%  2,100,666 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 1.8%     40,000 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
- 0.7%     15,188 DOT 1k68aonJW2X8d6ygjkL153YLN4pVBfHgE4CHHfhTpM6hMTA
- 0.4%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.3%      7,530 DOT self
- 0.2%      3,420 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
- 0.1%      3,063 DOT 14iCLmsLRqURWaKLRXcNiG4TrDwHEnb49nYqcTn9xx2yP7Py
- 0.1%      2,740 DOT 14su2bsrVPtuaGChtMsyUiYnf5duvi9xzrjFiDi3rf3nvP7X
- 0.1%      2,000 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
- 0.1%      1,634 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
- 0.7%     16,090 DOT Sum of 32 remaining
+         APPLIED  EFFECTIVE
+       2,201,949          - DOT TOTAL
+95.4%  2,100,666    161,590 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 1.8%     40,000      8,000 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
+ 0.7%     15,188        949 DOT 1k68aonJW2X8d6ygjkL153YLN4pVBfHgE4CHHfhTpM6hMTA
+ 0.4%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.3%      7,530          - DOT self
+ 0.2%      3,420        214 DOT 15JBE9fwj3tvCcszmfhF5cfvtrsnrQH72UT27py1Txz2PaE6
+ 0.1%      3,063        438 DOT 14iCLmsLRqURWaKLRXcNiG4TrDwHEnb49nYqcTn9xx2yP7Py
+ 0.1%      2,740        457 DOT 14su2bsrVPtuaGChtMsyUiYnf5duvi9xzrjFiDi3rf3nvP7X
+ 0.1%      2,000        182 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
+ 0.1%      1,634        117 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
+ 0.7%     16,090          - DOT Sum of 32 remaining
 
 ERA 855
-       2,213,453 DOT TOTAL
-96.8%  2,142,127 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 0.8%     18,356 DOT 14MWGCk3d11EJRMVHaSFcnkVMrMRuHuCmD63jPY7n7Pfcew1
- 0.5%      9,975 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
- 0.4%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.3%      7,577 DOT self
- 0.2%      4,571 DOT 12bRg1stHdjugT6xMFCxsH4L9VeHGRVpzA3MF6mobiKL3GgU
- 0.1%      2,000 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
- 0.1%      1,958 DOT 1bsj7YmMnuokP84mqhkTNHcPsEvX8ZXTGp4xTcQ1CiSePU8
- 0.1%      1,635 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
- 0.1%      1,425 DOT 14iagkP4JikdsjfQHjr219LL6A663sHBK115PbzbkoTnVCGr
- 0.6%     14,213 DOT Sum of 30 remaining
+         APPLIED  EFFECTIVE
+       2,213,453          - DOT TOTAL
+96.8%  2,142,127    164,779 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 0.8%     18,356      1,147 DOT 14MWGCk3d11EJRMVHaSFcnkVMrMRuHuCmD63jPY7n7Pfcew1
+ 0.5%      9,975      1,995 DOT 15tcHBgQ28uX2kDBHVRnpYgtugQA5vnhHAG6US85XadAr92X
+ 0.4%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.3%      7,577          - DOT self
+ 0.2%      4,571        286 DOT 12bRg1stHdjugT6xMFCxsH4L9VeHGRVpzA3MF6mobiKL3GgU
+ 0.1%      2,000        182 DOT 15BqofHTAWXQnFuKRFH2uCv72uV8xxQWi5wDi3xNZ58USZqe
+ 0.1%      1,958        122 DOT 1bsj7YmMnuokP84mqhkTNHcPsEvX8ZXTGp4xTcQ1CiSePU8
+ 0.1%      1,635        117 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
+ 0.1%      1,425         89 DOT 14iagkP4JikdsjfQHjr219LL6A663sHBK115PbzbkoTnVCGr
+ 0.6%     14,213          - DOT Sum of 30 remaining
 
 ERA 856
-               0 DOT TOTAL
-               0 DOT self
+         APPLIED  EFFECTIVE
+               0          - DOT TOTAL
+               0          - DOT self
 
 
 Validator 16YGKSNQ2p2SXC2LuGsoBHrm8nKJgnkW9wpvJE6ahBvs6wpe
           polkadot MC-Polkadot1
 
 ERA 825
-       2,154,574 DOT TOTAL
-93.9%  2,024,194 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
- 5.0%    107,900 DOT 148n1cSf4whJMiggn5BfXhPGcTTMdtNbEMhCyTB5Vnb6VoM5
- 0.4%      7,648 DOT self
- 0.3%      6,778 DOT 121NokwFuuahCBRF5zmDuv5cm1sQbTKoc7VKYRM8Sony2CrV
- 0.1%      1,116 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
- 0.0%        880 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
- 0.0%        753 DOT 14X8ZK5o7kRcLcBPxMgXjFmZtkE9TjZyeBDgeYM46zNpGKwE
- 0.0%        569 DOT 14TqPdvoFZqTo3H5QbbSePnd3v7cotqv2YR1B5VSQyqskZ18
- 0.0%        517 DOT 1dGxkajwSPns92uhRSVaS4JC8MQXNX1tH8VxKDyLWdPPctL
- 0.0%        500 DOT 12rgAaBUemhn1uUBqhncW8vQJEPpuXB6BmYWEx3ZjdDXUCF3
- 0.2%      3,709 DOT Sum of 13 remaining
+         APPLIED  EFFECTIVE
+       2,154,574          - DOT TOTAL
+93.9%  2,024,194    155,707 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+ 5.0%    107,900     10,790 DOT 148n1cSf4whJMiggn5BfXhPGcTTMdtNbEMhCyTB5Vnb6VoM5
+ 0.4%      7,648          - DOT self
+ 0.3%      6,778        616 DOT 121NokwFuuahCBRF5zmDuv5cm1sQbTKoc7VKYRM8Sony2CrV
+ 0.1%      1,116         93 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
+ 0.0%        880         68 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
+ 0.0%        753         54 DOT 14X8ZK5o7kRcLcBPxMgXjFmZtkE9TjZyeBDgeYM46zNpGKwE
+ 0.0%        569         38 DOT 14TqPdvoFZqTo3H5QbbSePnd3v7cotqv2YR1B5VSQyqskZ18
+ 0.0%        517         32 DOT 1dGxkajwSPns92uhRSVaS4JC8MQXNX1tH8VxKDyLWdPPctL
+ 0.0%        500         56 DOT 12rgAaBUemhn1uUBqhncW8vQJEPpuXB6BmYWEx3ZjdDXUCF3
+ 0.2%      3,709          - DOT Sum of 13 remaining
 
 ERA 843
-       2,208,464 DOT TOTAL
-72.5%  1,602,218 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
-19.9%    440,000 DOT 1eUJ5oWRrkxjYjYEang6x4ArxZh2VQo4FoDkPj2gZayJAih
- 4.9%    108,703 DOT 148n1cSf4whJMiggn5BfXhPGcTTMdtNbEMhCyTB5Vnb6VoM5
- 0.9%     20,002 DOT 13fZ83GHVFTghEXp2xp3NxuL1kY4xoHYaxYUfg3WkzPMU2xj
- 0.4%      9,559 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
- 0.4%      8,012 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
- 0.3%      7,720 DOT self
- 0.2%      3,701 DOT 1JMQqC8wtNHGj3rup7rPJ1MKtJ3m2Dh23FWxDnp4DiLLXiS
- 0.1%      1,116 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
- 0.0%        902 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
- 0.3%      6,520 DOT Sum of 14 remaining
+         APPLIED  EFFECTIVE
+       2,208,464          - DOT TOTAL
+72.5%  1,602,218    123,248 DOT 14Ns6kKbCoka3MS4Hn6b7oRw9fFejG8RH5rq5j63cWUfpPDJ
+19.9%    440,000     29,333 DOT 1eUJ5oWRrkxjYjYEang6x4ArxZh2VQo4FoDkPj2gZayJAih
+ 4.9%    108,703     10,870 DOT 148n1cSf4whJMiggn5BfXhPGcTTMdtNbEMhCyTB5Vnb6VoM5
+ 0.9%     20,002      1,539 DOT 13fZ83GHVFTghEXp2xp3NxuL1kY4xoHYaxYUfg3WkzPMU2xj
+ 0.4%      9,559        597 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
+ 0.4%      8,012        801 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
+ 0.3%      7,720          - DOT self
+ 0.2%      3,701        231 DOT 1JMQqC8wtNHGj3rup7rPJ1MKtJ3m2Dh23FWxDnp4DiLLXiS
+ 0.1%      1,116         93 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
+ 0.0%        902         69 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
+ 0.3%      6,520          - DOT Sum of 14 remaining
 
 ERA 844
-       2,307,736 DOT TOTAL
-84.9%  1,958,232 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
-13.7%    315,731 DOT 1eUJ5oWRrkxjYjYEang6x4ArxZh2VQo4FoDkPj2gZayJAih
- 0.4%      9,565 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
- 0.3%      8,012 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
- 0.3%      7,720 DOT self
- 0.0%        902 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
- 0.0%        881 DOT 133k55Mjt8xd6GvLLWoncMXpjkXpjojJibk3VKkE3UL4E8ma
- 0.0%        800 DOT 14YkU7DYSn5CpkkVuDmRnauCwvdaN4kJccwyX4pouDFJqXex
- 0.0%        767 DOT 14tujg2Tr1v9cG1vaQhpPgvWFcsWiEfhGmjzHZjmSnADvHsz
- 0.0%        751 DOT 129or5ZFXS297xLAwpTLx3ofpsabEQEsi9irAUfrPANNxjRb
- 0.2%      4,365 DOT Sum of 13 remaining
+         APPLIED  EFFECTIVE
+       2,307,736          - DOT TOTAL
+84.9%  1,958,232    326,372 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
+13.7%    315,731     21,049 DOT 1eUJ5oWRrkxjYjYEang6x4ArxZh2VQo4FoDkPj2gZayJAih
+ 0.4%      9,565        598 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
+ 0.3%      8,012        801 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
+ 0.3%      7,720          - DOT self
+ 0.0%        902         69 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
+ 0.0%        881         55 DOT 133k55Mjt8xd6GvLLWoncMXpjkXpjojJibk3VKkE3UL4E8ma
+ 0.0%        800         73 DOT 14YkU7DYSn5CpkkVuDmRnauCwvdaN4kJccwyX4pouDFJqXex
+ 0.0%        767         77 DOT 14tujg2Tr1v9cG1vaQhpPgvWFcsWiEfhGmjzHZjmSnADvHsz
+ 0.0%        751          - DOT 129or5ZFXS297xLAwpTLx3ofpsabEQEsi9irAUfrPANNxjRb
+ 0.2%      4,365          - DOT Sum of 13 remaining
 
 ERA 845
-       2,344,790 DOT TOTAL
-98.9%  2,318,406 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
- 0.3%      7,778 DOT self
- 0.3%      6,436 DOT 12W3ncyAfWR2sdrbV4ud2asYxPjUnwUwL2xhKttNAdBjqJa3
- 0.1%      2,568 DOT 13NZo39dAbvTwcHbbapVdvEjLYKHPGeLheWUP2wZfvVUqjXf
- 0.1%      1,629 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
- 0.1%      1,293 DOT 12c2YNkfu17EtRXCm3DCMve5NZfNeDsfvcp6JHZ8CHwBnJmC
- 0.1%      1,184 DOT 15cwtfk1MkHxXnGBC96AdWw742eB1ihiZE4p2nMXDeeWxs4Y
- 0.0%        903 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
- 0.0%        882 DOT 133k55Mjt8xd6GvLLWoncMXpjkXpjojJibk3VKkE3UL4E8ma
- 0.0%        737 DOT 11hKX9GAgTuiCE3TNY3m9hu9XGratryUx6tJr4zwFsvSRk6
- 0.1%      2,968 DOT Sum of 8 remaining
+         APPLIED  EFFECTIVE
+       2,344,790          - DOT TOTAL
+98.9%  2,318,406    386,401 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
+ 0.3%      7,778          - DOT self
+ 0.3%      6,436        402 DOT 12W3ncyAfWR2sdrbV4ud2asYxPjUnwUwL2xhKttNAdBjqJa3
+ 0.1%      2,568        161 DOT 13NZo39dAbvTwcHbbapVdvEjLYKHPGeLheWUP2wZfvVUqjXf
+ 0.1%      1,629        116 DOT 13fEtnPjoSdaRC3crmPFggtsdajndbNx3oJU5CcsYGVyoQuk
+ 0.1%      1,293         81 DOT 12c2YNkfu17EtRXCm3DCMve5NZfNeDsfvcp6JHZ8CHwBnJmC
+ 0.1%      1,184        237 DOT 15cwtfk1MkHxXnGBC96AdWw742eB1ihiZE4p2nMXDeeWxs4Y
+ 0.0%        903         69 DOT 1CLfQaQf5a5dc2KtynQbeiPrkiutWw6esoDyzWRbJcZZ5dT
+ 0.0%        882         55 DOT 133k55Mjt8xd6GvLLWoncMXpjkXpjojJibk3VKkE3UL4E8ma
+ 0.0%        737         46 DOT 11hKX9GAgTuiCE3TNY3m9hu9XGratryUx6tJr4zwFsvSRk6
+ 0.1%      2,968          - DOT Sum of 8 remaining
 
 ERA 846
-       2,393,021 DOT TOTAL
-98.0%  2,345,610 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
- 0.4%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.4%      9,572 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
- 0.3%      8,012 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
- 0.3%      7,814 DOT self
- 0.1%      2,013 DOT 13BFwWG6ViHLjXHHef28oN7mj5jaLgHW3NrXkptcvAWGXwap
- 0.1%      1,337 DOT 16MHUYtU58vU1LfAYiYTxunndA8A29WTCdp1Wp4gzcTPi25b
- 0.0%      1,116 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
- 0.0%      1,104 DOT 11Hdw6v3ZdhkYcBSGCQSnDpnbxS5dK596WRRTZSRc3pjVbT
- 0.0%      1,000 DOT 16UbZVwESn4EahpiwjjK7k3mhqKkzE97orByUdUN1XAffK66
- 0.2%      5,833 DOT Sum of 17 remaining
+         APPLIED  EFFECTIVE
+       2,393,021          - DOT TOTAL
+98.0%  2,345,610    390,935 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
+ 0.4%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.4%      9,572        598 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
+ 0.3%      8,012        801 DOT 12EXcpt1CwnSAF9d7YWrh91bQw6R5wmCpJUXPWi7vn2CZFpJ
+ 0.3%      7,814          - DOT self
+ 0.1%      2,013          - DOT 13BFwWG6ViHLjXHHef28oN7mj5jaLgHW3NrXkptcvAWGXwap
+ 0.1%      1,337         84 DOT 16MHUYtU58vU1LfAYiYTxunndA8A29WTCdp1Wp4gzcTPi25b
+ 0.0%      1,116         93 DOT 153k9gJBWVEQa2D1HV9nSY8H8VDkn9DDZ7HmSaDCFNZPM8MT
+ 0.0%      1,104        110 DOT 11Hdw6v3ZdhkYcBSGCQSnDpnbxS5dK596WRRTZSRc3pjVbT
+ 0.0%      1,000         63 DOT 16UbZVwESn4EahpiwjjK7k3mhqKkzE97orByUdUN1XAffK66
+ 0.2%      5,833          - DOT Sum of 17 remaining
 
 ERA 847
-               0 DOT TOTAL
-               0 DOT self
+         APPLIED  EFFECTIVE
+               0          - DOT TOTAL
+               0          - DOT self
 
 ERA 877
-       1,954,578 DOT TOTAL
-97.6%  1,908,547 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
- 0.5%      9,673 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
- 0.5%      9,600 DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
- 0.4%      8,078 DOT self
- 0.2%      3,701 DOT 1JMQqC8wtNHGj3rup7rPJ1MKtJ3m2Dh23FWxDnp4DiLLXiS
- 0.1%      2,601 DOT 13NZo39dAbvTwcHbbapVdvEjLYKHPGeLheWUP2wZfvVUqjXf
- 0.1%      1,974 DOT 1bsj7YmMnuokP84mqhkTNHcPsEvX8ZXTGp4xTcQ1CiSePU8
- 0.1%      1,058 DOT 16i1TSoE7czh5zeci5thNs5E2fNfdPFHjfz67EiEa9WkDC3W
- 0.1%      1,000 DOT 14z8oARWTpUxT7rKTwba9pPLZbNqERqZCsmMJU4bHz3bAUnA
- 0.0%        800 DOT 14YkU7DYSn5CpkkVuDmRnauCwvdaN4kJccwyX4pouDFJqXex
- 0.4%      7,535 DOT Sum of 19 remaining
+         APPLIED  EFFECTIVE
+       1,954,578          - DOT TOTAL
+97.6%  1,908,547    318,091 DOT 16GMHo9HZv8CcJy4WLoMaU9qusgzx2wxKDLbXStEBvt5274B
+ 0.5%      9,673        605 DOT 1572pSDpS2kvog7vfQ1gjVEdHHrVTyRTNXQASghBEq6Dm9v6
+ 0.5%      9,600          - DOT 13amrhnaEXBnSG9wq5PivYY9rPwvGgP38Lar3kqN5YXBFJit
+ 0.4%      8,078          - DOT self
+ 0.2%      3,701        231 DOT 1JMQqC8wtNHGj3rup7rPJ1MKtJ3m2Dh23FWxDnp4DiLLXiS
+ 0.1%      2,601        163 DOT 13NZo39dAbvTwcHbbapVdvEjLYKHPGeLheWUP2wZfvVUqjXf
+ 0.1%      1,974        123 DOT 1bsj7YmMnuokP84mqhkTNHcPsEvX8ZXTGp4xTcQ1CiSePU8
+ 0.1%      1,058         66 DOT 16i1TSoE7czh5zeci5thNs5E2fNfdPFHjfz67EiEa9WkDC3W
+ 0.1%      1,000         63 DOT 14z8oARWTpUxT7rKTwba9pPLZbNqERqZCsmMJU4bHz3bAUnA
+ 0.0%        800         73 DOT 14YkU7DYSn5CpkkVuDmRnauCwvdaN4kJccwyX4pouDFJqXex
+ 0.4%      7,535          - DOT Sum of 19 remaining
 
 
 Validator JA9TjkzZzsJnBC8igbnLZ2WYvgsYHd6fu54QJAViqnADoZq
           kusama DOZENODES2
 
 ERA 4446
-           5,880 KSM TOTAL
-98.2%      5,775 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
- 1.6%         96 KSM self
- 0.1%          8 KSM DiCr2ZnMUVEC23MvgZ9vTTRm5pvE148qRUimEfZteqtayfb
+         APPLIED  EFFECTIVE
+           5,880          - KSM TOTAL
+98.2%      5,775      1,444 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+ 1.6%         96          - KSM self
+ 0.1%          8          0 KSM DiCr2ZnMUVEC23MvgZ9vTTRm5pvE148qRUimEfZteqtayfb
 
 ERA 4447
-           5,897 KSM TOTAL
-97.3%      5,740 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
- 1.6%         96 KSM self
- 1.0%         59 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
- 0.0%          1 KSM F3opxRbN5ZavB4LTn2GykVBpSE17XBnFTiCdhueAWBo6jG7
+         APPLIED  EFFECTIVE
+           5,897          - KSM TOTAL
+97.3%      5,740      1,435 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+ 1.6%         96          - KSM self
+ 1.0%         59          2 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 0.0%          1          0 KSM F3opxRbN5ZavB4LTn2GykVBpSE17XBnFTiCdhueAWBo6jG7
 
 ERA 4448
-           6,034 KSM TOTAL
-91.5%      5,519 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
- 6.9%        419 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
- 1.6%         96 KSM self
+         APPLIED  EFFECTIVE
+           6,034          - KSM TOTAL
+91.5%      5,519      1,380 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+ 6.9%        419         84 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
+ 1.6%         96          - KSM self
 
 ERA 4449
-           5,921 KSM TOTAL
-96.5%      5,716 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
- 1.8%        105 KSM DoKF6jYQW93royhvbPnywQu9VpKJHSzMgHYVhqpM9AD7Cgn
- 1.6%         96 KSM self
- 0.1%          3 KSM Dtc3FbJ11B59crwYxLRd6Qvy6Qmw2CMJvmu6z2ZVWd1ioeF
+         APPLIED  EFFECTIVE
+           5,921          - KSM TOTAL
+96.5%      5,716      1,429 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+ 1.8%        105          4 KSM DoKF6jYQW93royhvbPnywQu9VpKJHSzMgHYVhqpM9AD7Cgn
+ 1.6%         96          - KSM self
+ 0.1%          3          0 KSM Dtc3FbJ11B59crwYxLRd6Qvy6Qmw2CMJvmu6z2ZVWd1ioeF
 
 ERA 4450
-           6,105 KSM TOTAL
-85.0%      5,189 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
-12.3%        748 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
- 1.6%         96 KSM self
- 0.7%         40 KSM EVixg9MmVJ5wVHEhWWPm1RKEiXQ8RHeCVcyswEBDxg9Ee9y
- 0.5%         31 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+         APPLIED  EFFECTIVE
+           6,105          - KSM TOTAL
+85.0%      5,189      1,730 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+12.3%        748        150 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
+ 1.6%         96          - KSM self
+ 0.7%         40          - KSM EVixg9MmVJ5wVHEhWWPm1RKEiXQ8RHeCVcyswEBDxg9Ee9y
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
 
 ERA 4451
-          11,374 KSM TOTAL
-97.2%     11,053 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
- 1.7%        192 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
- 0.8%         96 KSM self
- 0.3%         31 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
- 0.0%          1 KSM F3opxRbN5ZavB4LTn2GykVBpSE17XBnFTiCdhueAWBo6jG7
- 0.0%          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+         APPLIED  EFFECTIVE
+          11,374          - KSM TOTAL
+97.2%     11,053      3,684 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.7%        192         10 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.0%          1          0 KSM F3opxRbN5ZavB4LTn2GykVBpSE17XBnFTiCdhueAWBo6jG7
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4452
+         APPLIED  EFFECTIVE
+          11,370          - KSM TOTAL
+97.2%     11,053      3,684 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.1%        125          6 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 0.8%         96          - KSM self
+ 0.5%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.1%          9          1 KSM FyjLSq14VVTsrVJr1QgETx2D5cYUMYe1kuFTMfkh5ERC1ca
+
+ERA 4453
+         APPLIED  EFFECTIVE
+          11,359          - KSM TOTAL
+97.3%     11,055      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.1%        120          6 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 0.8%         96          - KSM self
+ 0.5%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.0%          2          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4454
+         APPLIED  EFFECTIVE
+          11,338          - KSM TOTAL
+97.5%     11,055      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.1%        127          5 KSM J1SXNTdqAB2r1sUoGGeTPywbHY7sm1AABMnU8svAxsuDMdb
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+
+ERA 4455
+         APPLIED  EFFECTIVE
+          11,253          - KSM TOTAL
+98.2%     11,055      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 0.9%         96          - KSM self
+ 0.3%         38          2 KSM GPK6HvE8KdfM4mJMGvhV1EY3y8FmVpL6Crum3Q24f7y9uxY
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.0%          4          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+
+ERA 4456
+         APPLIED  EFFECTIVE
+          11,402          - KSM TOTAL
+97.0%     11,055      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.9%        219          9 KSM DoKF6jYQW93royhvbPnywQu9VpKJHSzMgHYVhqpM9AD7Cgn
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4457
+         APPLIED  EFFECTIVE
+          11,359          - KSM TOTAL
+97.3%     11,056      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 0.8%         96          - KSM self
+ 0.8%         95          4 KSM GPK6HvE8KdfM4mJMGvhV1EY3y8FmVpL6Crum3Q24f7y9uxY
+ 0.4%         44          2 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.0%          4          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4458
+         APPLIED  EFFECTIVE
+          11,424          - KSM TOTAL
+96.8%     11,056      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.8%        204          9 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.0%          4          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4459
+         APPLIED  EFFECTIVE
+          11,315          - KSM TOTAL
+97.7%     11,056      3,685 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.2%        131          7 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4460
+         APPLIED  EFFECTIVE
+          11,315          - KSM TOTAL
+97.7%     11,057      3,686 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 1.1%        130          5 KSM J6ARk1wM6kEauNJA5gfiGUKCapcM1efWjRtdjVzL78KC8ZA
+ 0.8%         96          - KSM self
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4461
+         APPLIED  EFFECTIVE
+          11,232          - KSM TOTAL
+98.5%     11,058      3,686 KSM HptkY9mWWng22WSUAfYTNf77vWf9NJ6Bk8yKGHcRWr6od7u
+ 0.9%         96          - KSM self
+ 0.4%         46          2 KSM J6ARk1wM6kEauNJA5gfiGUKCapcM1efWjRtdjVzL78KC8ZA
+ 0.3%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4462
+         APPLIED  EFFECTIVE
+           6,146          - KSM TOTAL
+96.8%      5,950      1,488 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 1.6%         96          - KSM self
+ 0.9%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+
+ERA 4463
+         APPLIED  EFFECTIVE
+           6,164          - KSM TOTAL
+95.1%      5,861      1,465 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 1.9%        119          5 KSM J6ARk1wM6kEauNJA5gfiGUKCapcM1efWjRtdjVzL78KC8ZA
+ 1.6%         96          - KSM self
+ 0.9%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.0%          2          0 KSM F3opxRbN5ZavB4LTn2GExCJNkpR3ZJkn5wxZVNmrw8Wci2c
+
+ERA 4464
+         APPLIED  EFFECTIVE
+           6,180          - KSM TOTAL
+96.4%      5,959      1,490 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 1.6%         96          - KSM self
+ 0.9%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.0%          1          0 KSM DatyT9cs9yJ86gQMXAXsGG6vnYnnay3SSCUHk8D1ogjqchg
+ 0.0%          1          0 KSM FcmNYFj1zjS8qn545o94gqBWWam1gpBE3ohmGTLat2UXtFw
+ 0.0%          2          - KSM Sum of 2 remaining
+
+ERA 4465
+         APPLIED  EFFECTIVE
+           6,123          - KSM TOTAL
+93.3%      5,710      1,428 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 4.7%        286         57 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
+ 1.6%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4466
+         APPLIED  EFFECTIVE
+           6,248          - KSM TOTAL
+84.5%      5,282      1,321 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+10.9%        681         28 KSM GHMjBZTEvp8VXCuYE3c7QioStWvx9RD6NiByqg83N3ovBQX
+ 2.3%        142          7 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.1%          9          1 KSM FyjLSq14VVTsrVJr1QgETx2D5cYUMYe1kuFTMfkh5ERC1ca
+ 0.1%          5          0 KSM GUXJooFc5ExYH8tkf7BBNbypwu8uzCmVMShQmwk1ua39Pv6
+
+ERA 4467
+         APPLIED  EFFECTIVE
+           6,246          - KSM TOTAL
+84.7%      5,291      1,323 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+13.2%        827         34 KSM GHMjBZTEvp8VXCuYE3c7QioStWvx9RD6NiByqg83N3ovBQX
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4468
+         APPLIED  EFFECTIVE
+           6,198          - KSM TOTAL
+90.7%      5,620      1,405 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+ 5.7%        356         15 KSM J6ARk1wM6kEauNJA5gfiGUKCapcM1efWjRtdjVzL78KC8ZA
+ 1.5%         96          - KSM self
+ 1.5%         95          4 KSM GPK6HvE8KdfM4mJMGvhV1EY3y8FmVpL6Crum3Q24f7y9uxY
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4469
+         APPLIED  EFFECTIVE
+           6,271          - KSM TOTAL
+83.1%      5,209      1,302 KSM GSB74xfhCEe9tE76uXFFVWby9LDsHH3NiTs74gVdmQwy7Mu
+14.9%        935         39 KSM GHMjBZTEvp8VXCuYE3c7QioStWvx9RD6NiByqg83N3ovBQX
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4470
+         APPLIED  EFFECTIVE
+           6,439          - KSM TOTAL
+98.0%      6,312      1,578 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4471
+         APPLIED  EFFECTIVE
+           6,480          - KSM TOTAL
+97.8%      6,340      1,585 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.1%          8          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+ 0.0%          0          0 KSM F3opxRbN5ZavB4LTn2GykVBpSE17XBnFTiCdhueAWBo6jG7
+
+ERA 4472
+         APPLIED  EFFECTIVE
+           6,474          - KSM TOTAL
+86.8%      5,617      1,404 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 7.7%        496         21 KSM DoKF6jYQW93royhvbPnywQu9VpKJHSzMgHYVhqpM9AD7Cgn
+ 3.6%        233         12 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4473
+         APPLIED  EFFECTIVE
+           6,698          - KSM TOTAL
+90.7%      6,073      1,518 KSM HChjf62FddBkgfkYMr5E2ejjAeRNEsXDZC677JKgMhxeBBW
+ 4.8%        324         14 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 1.4%         96          - KSM self
+ 0.8%         53         11 KSM DwSF8vWusFvAbK5TnqaowMLfgdHYsy8qwUBg8B28VgEgiSd
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+ 0.4%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.3%         17          1 KSM DEF8rUZYjXFurQpLUCmpyVMB18STRnu48166RwgM8aFoiwP
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.5%         32          - KSM Sum of 8 remaining
+
+ERA 4474
+         APPLIED  EFFECTIVE
+           7,531          - KSM TOTAL
+95.2%      7,170      1,195 KSM GRTHCT1fNRgbqMURtEDuZPBbQ7tHcgt3swzdmGNk1MKchqL
+ 3.1%        233         12 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 1.3%         96          - KSM self
+ 0.4%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4475
+         APPLIED  EFFECTIVE
+           5,848          - KSM TOTAL
+91.7%      5,365        894 KSM GRTHCT1fNRgbqMURtEDuZPBbQ7tHcgt3swzdmGNk1MKchqL
+ 6.1%        356         15 KSM J6ARk1wM6kEauNJA5gfiGUKCapcM1efWjRtdjVzL78KC8ZA
+ 1.6%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4476
+         APPLIED  EFFECTIVE
+           5,958          - KSM TOTAL
+97.9%      5,831        972 KSM GRTHCT1fNRgbqMURtEDuZPBbQ7tHcgt3swzdmGNk1MKchqL
+ 1.6%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4477
+         APPLIED  EFFECTIVE
+           6,229          - KSM TOTAL
+89.8%      5,591        932 KSM GRTHCT1fNRgbqMURtEDuZPBbQ7tHcgt3swzdmGNk1MKchqL
+ 8.2%        510        102 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
+ 1.5%         96          - KSM self
+ 0.5%         31          1 KSM H1vdky2Cn59NmUxVS6zrQDM2C5XGQ5JZPC8wn5GAoPo4woA
+
+ERA 4481
+         APPLIED  EFFECTIVE
+           6,223          - KSM TOTAL
+92.3%      5,742        287 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 5.2%        324         14 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 1.5%         96          - KSM self
+ 0.6%         40          2 KSM JBg2fm8drf8VRaweZTd6DDRKD1pXCPjNuJ9R52T9CKF5qXZ
+ 0.1%          9          0 KSM CbMHAW7QrZNkxTA8mPDTutDfabJucZaLtFQebgvsku1PGH4
+ 0.1%          6          0 KSM JCFbR6ZagnRUcqwQyuW9bi3JsA711QJUNqYrRD5QdBosmVQ
+ 0.0%          2          0 KSM Cn5kCZcQr4ZaiNXR3Hk3C3HfhwzeKisWEf96fbMqAULqmar
+ 0.0%          1          0 KSM F7nXKFhrRavcrezE56bFaLmZR6c4fE8WvWVUPRQ8K8DW8x7
+ 0.0%          0          0 KSM FegBMfZdUqzMXYjus9bDgKPY2VTv6ZHbGgpiWiPxh2dDkxL
+
+ERA 4482
+         APPLIED  EFFECTIVE
+           6,998          - KSM TOTAL
+90.2%      6,310        316 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 4.6%        324         14 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 3.1%        215          9 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 1.4%         96          - KSM self
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.0%          1          0 KSM DatyT9cs9yJ86gQMXAXsGG6vnYnnay3SSCUHk8D1ogjqchg
+ 0.0%          1          - KSM Sum of 1 remaining
+
+ERA 4483
+         APPLIED  EFFECTIVE
+           6,996          - KSM TOTAL
+87.7%      6,136        307 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 7.1%        496         21 KSM DoKF6jYQW93royhvbPnywQu9VpKJHSzMgHYVhqpM9AD7Cgn
+ 3.3%        234         12 KSM JHnPFARdyjztjL73S3xtzw6jzXm2WGGUg57JCMCwxaYYQJb
+ 1.4%         96          - KSM self
+ 0.3%         18          1 KSM HL9N1MbnVMdNmVSRnw3oRd3GKcQ9YHSWEcyaEckRA6LkfGu
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM ECya995NVu5vjUBHMsThy1a4cJH1aLHs6MPtLVGbxxntAPx
+ 0.0%          3          0 KSM GLv1EDH8qDUSDyC83tbb51cHehuyzVSd4H9AHbDVfz7FZsS
+
+ERA 4484
+         APPLIED  EFFECTIVE
+           6,946          - KSM TOTAL
+97.6%      6,776        339 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 1.4%         96          - KSM self
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.1%          8          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.1%          6          0 KSM JCFbR6ZagnRUcqwQyuW9bi3JsA711QJUNqYrRD5QdBosmVQ
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.1%          4          - KSM Sum of 5 remaining
+
+ERA 4485
+         APPLIED  EFFECTIVE
+           6,066          - KSM TOTAL
+96.2%      5,834        292 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 1.6%         96          - KSM self
+ 1.6%         95          4 KSM GPK6HvE8KdfM4mJMGvhV1EY3y8FmVpL6Crum3Q24f7y9uxY
+ 0.5%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.1%          8          0 KSM Dry7Buov96wzwSUprmP8eYo8ySeUePzqp9cRUFkZZuEPhzy
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          0          0 KSM F9wLWmMwG6pqCRA5GdLK7fFZ6EwudCZUQG6vqapLA9kGEfv
+
+ERA 4486
+         APPLIED  EFFECTIVE
+           6,145          - KSM TOTAL
+93.8%      5,763        288 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 3.5%        215          9 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 1.6%         96          - KSM self
+ 0.5%         28          1 KSM FhdXuD4jhkThnUcCaCBR1jMhZ2YEwoNiMnScWJU8HFghfjv
+ 0.3%         19          1 KSM JErR8ct4fbDRc3drcRvZyGjmmNSsRL1hGUtmtHeHKMLX9PU
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM GLv1EDH8qDUSDyC83tbb51cHehuyzVSd4H9AHbDVfz7FZsS
+ 0.0%          3          0 KSM CjSjqLq3g3nSd57EH2vQBXDyae9u7GnUy9tqxUAeSEYNN46
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.0%          1          0 KSM DatyT9cs9yJ86gQMXAXsGG6vnYnnay3SSCUHk8D1ogjqchg
+ 0.0%          2          - KSM Sum of 3 remaining
+
+ERA 4487
+         APPLIED  EFFECTIVE
+           6,127          - KSM TOTAL
+81.7%      5,003        250 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+16.3%      1,000        200 KSM EZnvefir4bQfzEVFFdTzqjWohxM8Wpx7KxbRJJ5CHo3nCBH
+ 1.6%         96          - KSM self
+ 0.3%         18          1 KSM HL9N1MbnVMdNmVSRnw3oRd3GKcQ9YHSWEcyaEckRA6LkfGu
+ 0.2%         10          1 KSM FyjLSq14VVTsrVJr1QgETx2D5cYUMYe1kuFTMfkh5ERC1ca
+
+ERA 4488
+         APPLIED  EFFECTIVE
+           6,304          - KSM TOTAL
+94.3%      5,945        297 KSM G1rrUNQSk7CjjEmLSGcpNu72tVtyzbWdUvgmSer9eBitXWf
+ 3.4%        215          9 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 1.5%         96          - KSM self
+ 0.3%         19          1 KSM JErR8ct4fbDRc3drcRvZyGjmmNSsRL1hGUtmtHeHKMLX9PU
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.1%          7          0 KSM GwB5ks9F2w9rwiGjESoZzwZR1RN37mVcfZp9vSDb83dboWo
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.0%          3          0 KSM Dtc3FbJ11B59crwYxLRd6Qvy6Qmw2CMJvmu6z2ZVWd1ioeF
+ 0.0%          1          0 KSM DatyT9cs9yJ86gQMXAXsGG6vnYnnay3SSCUHk8D1ogjqchg
+ 0.0%          1          0 KSM FcmNYFj1zjS8qn545o94gqBWWam1gpBE3ohmGTLat2UXtFw
+
+ERA 4489
+         APPLIED  EFFECTIVE
+           6,194          - KSM TOTAL
+96.1%      5,951        271 KSM HgTtJusFEn2gmMmB5wmJDnMRXKD6dzqCpNR7a99kkQ7BNvX
+ 1.5%         96          - KSM self
+ 1.3%         81          3 KSM G2SM9u9PkpqFRrH8U3afnCq7H738EsjYAMRR1A6GDYt3pvC
+ 0.9%         55          2 KSM CwayvhFG9PLN414M8uAY6A2jUh4N6hhWDhRBBxDqwdR8vcp
+ 0.1%          6          0 KSM JCFbR6ZagnRUcqwQyuW9bi3JsA711QJUNqYrRD5QdBosmVQ
+ 0.0%          2          0 KSM Cn5kCZcQr4ZaiNXR3Hk3C3HfhwzeKisWEf96fbMqAULqmar
+ 0.0%          0          0 KSM FegBMfZdUqzMXYjus9bDgKPY2VTv6ZHbGgpiWiPxh2dDkxL
+
+ERA 4490
+         APPLIED  EFFECTIVE
+           6,835          - KSM TOTAL
+98.5%      6,734        306 KSM HgTtJusFEn2gmMmB5wmJDnMRXKD6dzqCpNR7a99kkQ7BNvX
+ 1.4%         96          - KSM self
+ 0.1%          5          0 KSM GUXJooFc5ExYH8tkf7BBNbypwu8uzCmVMShQmwk1ua39Pv6
+
+ERA 4491
+         APPLIED  EFFECTIVE
+           6,789          - KSM TOTAL
+90.0%      6,108        278 KSM HgTtJusFEn2gmMmB5wmJDnMRXKD6dzqCpNR7a99kkQ7BNvX
+ 4.8%        324         14 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 1.4%         96          - KSM self
+ 1.0%         65          3 KSM HWkKu679bfybh3h28RVQzf3NvXsyqgNKDmNzGo2Xx6HRSzb
+ 0.8%         55          2 KSM CwayvhFG9PLN414M8uAY6A2jUh4N6hhWDhRBBxDqwdR8vcp
+ 0.3%         19          1 KSM JErR8ct4fbDRc3drcRvZyGjmmNSsRL1hGUtmtHeHKMLX9PU
+ 0.3%         18          1 KSM GAnQWWABXeXSKhQQNpxAwNryEmWxVjt7bSWfEkfVVjkyY1E
+ 0.3%         17          1 KSM DEF8rUZYjXFurQpLUCmpyVMB18STRnu48166RwgM8aFoiwP
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.8%         51          - KSM Sum of 14 remaining
+
+ERA 4492
+         APPLIED  EFFECTIVE
+           6,799          - KSM TOTAL
+91.2%      6,202        282 KSM HgTtJusFEn2gmMmB5wmJDnMRXKD6dzqCpNR7a99kkQ7BNvX
+ 3.2%        215          9 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 1.4%         96          - KSM self
+ 1.0%         65          3 KSM HWkKu679bfybh3h28RVQzf3NvXsyqgNKDmNzGo2Xx6HRSzb
+ 0.8%         55          2 KSM CwayvhFG9PLN414M8uAY6A2jUh4N6hhWDhRBBxDqwdR8vcp
+ 0.3%         20          1 KSM Hei7DKaBcNSVBT8TnXZ12HVD5XqyxDZ3MpDwEgpMNDjzpgB
+ 0.3%         19          1 KSM JErR8ct4fbDRc3drcRvZyGjmmNSsRL1hGUtmtHeHKMLX9PU
+ 0.3%         18          1 KSM GAnQWWABXeXSKhQQNpxAwNryEmWxVjt7bSWfEkfVVjkyY1E
+ 0.3%         18          1 KSM HL9N1MbnVMdNmVSRnw3oRd3GKcQ9YHSWEcyaEckRA6LkfGu
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 1.0%         66          - KSM Sum of 15 remaining
+
+ERA 4493
+         APPLIED  EFFECTIVE
+           6,106          - KSM TOTAL
+92.0%      5,616        234 KSM GHMjBZTEvp8VXCuYE3c7QioStWvx9RD6NiByqg83N3ovBQX
+ 5.3%        324         14 KSM JC3xbN7Xbb8YxBdgCchcJn6hgjRecyRmEzxjAWEHpFtoAHQ
+ 1.6%         96          - KSM self
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.2%         11          0 KSM Dp96LRZdFJnYnTcCNBxG8uCStDtLFKpj7RkG3S4VJZHDayG
+ 0.1%          9          0 KSM CbMHAW7QrZNkxTA8mPDTutDfabJucZaLtFQebgvsku1PGH4
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM GLv1EDH8qDUSDyC83tbb51cHehuyzVSd4H9AHbDVfz7FZsS
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.1%          4          - KSM Sum of 4 remaining
+
+ERA 4494
+         APPLIED  EFFECTIVE
+           6,956          - KSM TOTAL
+98.1%      6,822        284 KSM EX9uchmfeSqKTM7cMMg8DkH49XV8i4R7a7rqCn8btpZBHDP
+ 1.4%         96          - KSM self
+ 0.5%         37          7 KSM HqbhdkQ6GuXQkxpkXuf7Uoh2zypZrajXJgjVXKzLMaGPKZ3
+
+ERA 4495
+         APPLIED  EFFECTIVE
+           6,927          - KSM TOTAL
+93.2%      6,457        269 KSM EX9uchmfeSqKTM7cMMg8DkH49XV8i4R7a7rqCn8btpZBHDP
+ 3.1%        215          9 KSM EUT5NZiPMvbsnGjNzjEiongDGmvnmfASKzUoZnvCKVijgaK
+ 1.4%         96          - KSM self
+ 0.9%         60          3 KSM GkjmAF6u7kuCvrRF6asfCJBzzNi5QUdqhMgQRTrrzU9F8yy
+ 0.5%         37          7 KSM HqbhdkQ6GuXQkxpkXuf7Uoh2zypZrajXJgjVXKzLMaGPKZ3
+ 0.3%         18          1 KSM GAnQWWABXeXSKhQQNpxAwNryEmWxVjt7bSWfEkfVVjkyY1E
+ 0.2%         15          1 KSM CmtZTwLpXfStDtLkYoe395aVrGDvKf1JYp6ocXGmsqe3HQx
+ 0.2%         11          0 KSM EtBSZnxRu5sx2Ub4MsFjVsYESP7NC7C9pHbUqEYnbhoUcZB
+ 0.1%          7          0 KSM Fvu3eoDFSSJqRtc2JCFLVdrQVt6zcoyZ8K3L9eYNuBdUrDy
+ 0.0%          3          0 KSM CuxvprGiZpbXc3uxXYJxzwe5xSMVLkAfKYnVeaYhdBNiqej
+ 0.0%          3          - KSM Sum of 3 remaining
 
 

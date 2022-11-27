@@ -5,9 +5,6 @@ const KSMWS = "wss://kusama-rpc.polkadot.io";
 //TVP data sources
 const DOTTVPURL = "https://polkadot.w3f.community/candidates";
 const KSMTVPURL = "https://kusama.w3f.community/candidates";
-//Polkadot eras are 24 hours and Kusama eras are 6 hours
-//Both chains only store 84 eras of data
-const ERADEPTH = 84;
 //////////////////////////////////////////////////////////////////////////////////////////
 // IMPORTS
 import BN from "bn.js";
@@ -18,6 +15,9 @@ import { W3F } from "./w3f.js";
 // @ts-ignore
 import data from "./validators.json" assert { type: "json" };
 const VALIDATORS = data.VALIDATORS;
+//Polkadot eras are 24 hours and Kusama eras are 6 hours
+//Both chains only store 84 eras of data
+const ERADEPTH = data.ERADEPTH;
 //////////////////////////////////////////////////////////////////////////////////////////
 // PROCEDURE
 validatorReport().then(() => process.exit());
