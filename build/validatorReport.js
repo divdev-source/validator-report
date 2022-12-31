@@ -37,8 +37,18 @@ async function validatorReport() {
     //Parallel request for data for all validators
     const dotValidators = VALIDATORS.filter((validator) => validator.network === "polkadot");
     const ksmValidators = VALIDATORS.filter((validator) => validator.network === "kusama");
-    const promiseKsmTvpData = fetch(KSMTVPURL).then((r) => r.json());
-    const promiseDotTvpData = fetch(DOTTVPURL).then((r) => r.json());
+    const promiseKsmTvpData = fetch(KSMTVPURL)
+        .then((r) => r.json())
+        .catch(() => {
+        console.warn("Failed to retrieve TVP KSM data.");
+        return undefined;
+    });
+    const promiseDotTvpData = fetch(DOTTVPURL)
+        .then((r) => r.json())
+        .catch(() => {
+        console.warn("Failed to retrieve TVP DOT data.");
+        return undefined;
+    });
     let dataset = await Promise.all([
         dotValidators.map((validator) => getAPIData(validator, "DOT", ERADEPTH, activeEraDOT, apiDOT)),
         ksmValidators.map((validator) => getAPIData(validator, "KSM", ERADEPTH, activeEraKSM, apiKSM)),
@@ -124,7 +134,10 @@ function printSummary(dataset, tvpData) {
         process.stdout.write(`Validator ${data["validator"].stash}\n`);
         process.stdout.write(`          ${data["validator"].network}`);
         process.stdout.write(` ${data["validator"].name}\n`);
-        let tvpIdx = tvpData[data["validator"].network].findIndex((v) => v["stash"] == data["validator"].stash);
+        let tvpIdx = -1;
+        if (tvpData[data["validator"].network]) {
+            tvpIdx = tvpData[data["validator"].network].findIndex((v) => v["stash"] == data["validator"].stash);
+        }
         if (tvpIdx > -1) {
             process.stdout.write(`          TVP Rank: ${tvpData[data["validator"].network][tvpIdx].rank}`);
             process.stdout.write(` Nomination Order: ${tvpIdx}`);
